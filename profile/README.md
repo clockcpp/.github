@@ -14,7 +14,9 @@
 🙋‍♀️ __ClockCPP__: a lot of functions that supports you do anything you want to the classic windows console, without learning many WINAPI !  
 🌈If you have any idea, you can contact us with Discussion, Issues or PRs!  
 💻You may find more detailed instructions in different repos  
-🍿~   <-------  I found i'm unable to align those two symbols! WT*  
+  
+  
+🍿~   <-------  I found i'm unable to align those two symbols! WTF   
 🧙~  <--------/  
   
   
