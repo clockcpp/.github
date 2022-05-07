@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️__ClockCPP__: a lot of functions that supports you do anything you want to the classic windows console, without learning many WINAPI !  
+🙋‍♀️ __ClockCPP__: a lot of functions that supports you do anything you want to the classic windows console, without learning many WINAPI !  
 🌈If you have any idea, you can contact us with Discussion, Issues or PRs!  
 💻You may find more detailed instructions in different repos  
 🍿~   <-------  I found i'm unable to align those two symbols! WT*  
