@@ -101,6 +101,9 @@ ___
 I'm locked at the home by the *COVID-19* in Shanghai, China.  
 This is my work during that(about 2 months) because I'm too vacancy  
   
+You may ask y I'm not gonna write a plugin that automatically buy food for me.  
+Because I'm already write one :/  
+  
 Be careful because these code *may* contain following content:  
 - violent 'algorithm'
 - a little annotation
