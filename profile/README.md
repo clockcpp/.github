@@ -16,8 +16,6 @@
 💻You may find more detailed instructions in different repos  
   
   
-🍿~   <-------  I found i'm unable to align those two symbols! WTF   
-🧙~  <--------/  
   
   
   
